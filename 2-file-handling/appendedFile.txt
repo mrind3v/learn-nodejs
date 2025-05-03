@@ -1,0 +1,2 @@
+append line sync
+append line async
